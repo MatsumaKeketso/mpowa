@@ -38,7 +38,7 @@ Be transparent in an interview, if you do not understand something, tell the emp
 
 Lastly, you must know why you are applying for a job. Crafford says some people apply for certain jobs because they are motivated by the money, some are attracted to the challenges of the job specification and some apply because the job is in a convenient location. She advises that you define the reasons why you are applying for a job so that you can apply for the correct opportunities. 
 
-## \    **“Do not give up”**
+##  **\    Do not give up**
 
 \
 It is understandable that looking for a job in an economy like South Africa’s as a young person, is frustrating. “You cannot afford to give up,” says Crafford. 
