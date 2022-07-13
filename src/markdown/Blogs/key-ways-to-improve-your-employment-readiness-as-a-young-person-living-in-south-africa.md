@@ -10,6 +10,8 @@ Transitioning from high school and college or university is a challenging proces
 
 One of the pressing crises faced by South African youth is unemployment, the workforce is not absorbing youth who just exited the school system because they are questioning if these young people are employment ready. According to research, when youth leave the school system they wait to be employed to know if they are ready for employment. This is costly to youth and employers in such a way that youth remain unemployed and employers are pushed to invest in developing these young people’s skills to make them ready or fit for employment. On the other hand, this may contribute to employers being hesitant to offer opportunities to youth to gain much-needed work experience. 
 
+![](youth-employment-readiness.jpg)
+
 If you are a young person living in South Africa, you are yet to learn about employment readiness in this article; what it is, how to be employment ready and lastly you will get a few tips on how to perform well in job interviews. 
 
 Antoinette Crafford is an HR Specialist with over 20 years of experience in the Human Resources sector, she provided invaluable information about being employment ready as a young person living in South Africa. 
@@ -36,7 +38,7 @@ Be transparent in an interview, if you do not understand something, tell the emp
 
 Lastly, you must know why you are applying for a job. Crafford says some people apply for certain jobs because they are motivated by the money, some are attracted to the challenges of the job specification and some apply because the job is in a convenient location. She advises that you define the reasons why you are applying for a job so that you can apply for the correct opportunities. 
 
-## \     **   “Do not give up”**
+## \     **    “Do not give up”**
 
 \
 It is understandable that looking for a job in an economy like South Africa’s as a young person, is frustrating. “You cannot afford to give up,” says Crafford. 
