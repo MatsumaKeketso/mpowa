@@ -18,8 +18,6 @@ Antoinette Crafford is an HR Specialist with over 20 years of experience in the 
 
 There are a few factors that define your employment readiness which include your qualifications or certifications, critical thinking, and personal skills. Crafford says apart from qualifying, it is highly important that you have good communication skills, interpersonal skills, and the ability to work in teams. She emphasises the ability to think critically, “Even in a junior job position you must be able to make critical decisions to get things done”. 
 
-
-
 ## **How to equip yourself to be employment ready**
 
 You must put yourself in a position that will give you some experience while you are still looking for employment. “You need to make use of opportunities that will not necessarily pay you to get the experience you need so that you can apply for positions that will pay”, says Crafford. 
@@ -27,8 +25,6 @@ You must put yourself in a position that will give you some experience while you
 Start looking for opportunities where you can volunteer even for learnerships and scholarships that will reward you with a portfolio of evidence in the end. Also, try to be entrepreneurial by reaching out to both small and big companies to do freelance work where the output is going to be a portfolio of work. 
 
 In the opinion of Crafford, youth need guidance on how to look for opportunities and how to perform well in interviews to get employment. 
-
-
 
 ## **Ways to improve your interview performance**
 
@@ -40,38 +36,12 @@ Be transparent in an interview, if you do not understand something, tell the emp
 
 Lastly, you must know why you are applying for a job. Crafford says some people apply for certain jobs because they are motivated by the money, some are attracted to the challenges of the job specification and some apply because the job is in a convenient location. She advises that you define the reasons why you are applying for a job so that you can apply for the correct opportunities. 
 
-
-
-##  **\     “Do not give up”**
+## \     **   “Do not give up”**
 
 \
 It is understandable that looking for a job in an economy like South Africa’s as a young person, is frustrating. “You cannot afford to give up,” says Crafford. 
 
 Should you feel demotivated by rejection from job applications, Crafford recommends that you keep your mind busy by trying online free courses, spend your time developing an online portfolio on platforms like LinkedIn, and seek support from your loved ones. In addition, set realistic goals like applying for at least 3 jobs a day instead of sending many applications  until you lose count.  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 *Credits:* 
 
