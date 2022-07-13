@@ -43,6 +43,8 @@ It is understandable that looking for a job in an economy like South Africa’s 
 
 Should you feel demotivated by rejection from job applications, Crafford recommends that you keep your mind busy by trying online free courses, spend your time developing an online portfolio on platforms like LinkedIn, and seek support from your loved ones. In addition, set realistic goals like applying for at least 3 jobs a day instead of sending many applications  until you lose count.  
 
+![](job-interview-employment-readiness.png)
+
 *Credits:* 
 
 * *Helping Youth Achieve Employment Readiness: Measuring Our Success by Valerie G. Ward and Dorothy I. Riddle (2002).*
