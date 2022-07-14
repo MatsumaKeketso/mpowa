@@ -141,13 +141,13 @@ const IndexPage = (data) => {
               <p className="bodyText">Let mPowa help you find services and events that will drive your professional career - whatever it may be. Your first step towards a brighter future starts with downloading it from the Google Play or Apple app store and setting up your account in a few easy steps.</p>
             </div>
           </div>
-
-          <Stack spacing={2} direction={{ xs: 'column', sm: 'row' }}>
+          <div className="layout_">
             {NEWS.map(c => {
               const image = getImage(c.node.frontmatter.thumb)
               return (<NewsItem data={c} image={image} key={c.node.frontmatter.path} />)
             })}
-          </Stack>
+          </div>
+
           <Stack sx={{ p: 5 }}>
             <Button variant="outlined" endIcon={<ChevronRightRoundedIcon />}>
               <Link to="/Blogs">View All

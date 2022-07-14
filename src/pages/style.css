@@ -57,6 +57,12 @@ a:hover {
     padding: 70px;
     overflow: visible;
 }
+.layout_ {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
 .blogSection {
     background: linear-gradient(#171717e1, #171717e1), url("../images/readArticle/bg.png") !important;
     background-attachment: fixed;

@@ -82,7 +82,7 @@
         flex-direction: column;
     }
     .col {
-        background: bisque;
+        background: none;
         padding: 0px 0px;
         .phoneImage {
             width: 323px;
@@ -90,6 +90,7 @@
         }
     }
 }
+
 // @media only screen and (max-width: 541px) {
 //     .navigation {
 //         display: none;
