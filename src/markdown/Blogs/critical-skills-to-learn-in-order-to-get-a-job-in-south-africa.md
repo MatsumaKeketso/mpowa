@@ -1,7 +1,7 @@
 ---
 title: Critical skills to learn in order to get a job in South Africa
 author: Zukanye Madakana
-date: 2022-02-28T07:59:45.283Z
+date: Feb 24, 22
 thumb: skills-blog-.jpeg
 category: Employment
 ---
