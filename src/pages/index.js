@@ -199,6 +199,7 @@ query HomeQuery  {
           title
           date
           author
+          category
           thumb {
             childImageSharp {
               gatsbyImageData(quality: 100, width: 500, formats: AUTO, placeholder: BLURRED)
