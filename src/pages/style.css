@@ -239,6 +239,13 @@ img {
     .s-section {
         height: 650px;
     }
+    .section {
+        flex-direction: column;
+        padding: 20px 20px 0px 20px;
+    }
+    .bodyText {
+        padding: 0px;
+    }
 
 }
 @media only screen and (max-width: 541px) {

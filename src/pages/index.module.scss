@@ -73,7 +73,8 @@
     border-radius: 10px;
     margin-bottom: 90px;
 }
-@media only screen and (max-width: 1200px) { //1024px
+@media only screen and (max-width: 1200px) {
+    //1024px
     .statWrapper,
     .cardWrapper {
         flex-direction: column;
@@ -87,7 +88,8 @@
         }
     }
 }
-@media only screen and (max-width: 900px) { //1024px
+@media only screen and (max-width: 900px) {
+    //1024px
     .navigation {
         display: none;
     }
