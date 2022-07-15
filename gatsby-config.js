@@ -39,10 +39,10 @@ module.exports = {
               classMap: {
                 "heading[depth=1]": "title",
                 "heading[depth=2]": "subtitle",
-                paragraph: "para",
+                paragraph: "para_text",
                 "list[ordered=false]": "unordered-list",
-                listItem: "list-item"
-
+                listItem: "list-item",
+                "img": 'g-image'
               }
             }
           }

@@ -9,31 +9,21 @@ function Blog({ data }) {
   return (
     <Layout>
       <div className="roundedMain">
-        <section id="intro" className="section blogSection">
-          <div className={col}>
-            <div>
-              <p className="pageTitle">{data.markdownRemark.frontmatter.title.replaceAll('-', ' ')}</p>
-              <div className="lineWrapper">
-                <div className="line"></div>
-              </div>
-              <p className="bodyText">{data.markdownRemark.excerpt}</p>
-              <Stack label={data.markdownRemark.frontmatter.category} />
+        <div className='s-section'>
+          <GatsbyImage className="s-articleImage" image={image} alt={data.markdownRemark.frontmatter.title} />
+          <div className='s-overlay'>
+            <p className='s-header'>{data.markdownRemark.frontmatter.title.replaceAll('-', ' ')}</p>
+            <div className="lineWrapper">
+              <div className="line"></div>
             </div>
+            <p className='s-short-text'>{data.markdownRemark.excerpt}</p>
           </div>
-          <div className={col} style={{ paddingBottom: 0 }}>
-            <GatsbyImage className={phoneImage} image={image} alt={data.markdownRemark.frontmatter.title} />
-            {/* <StaticImage className={phoneImage} src="../images/gradienta-tHtZo3FLhPc-unsplash.jpg" alt="prototype" placeholder="blurred" /> */}
+        </div>
+        <div className={content}>
+          <div className="bodyText" dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}>
           </div>
-        </section>
-          <div className={content}>
-            <div className="bodyText" dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}>
-          </div>
-          </div>
-          
-       
-
+        </div>
       </div>
-
     </Layout>
   )
 }

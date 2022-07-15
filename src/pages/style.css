@@ -46,6 +46,10 @@ a {
 a:hover {
     color: hsl(204, 100%, 77%);
 }
+.para_text {
+    width: 100%;
+    color: red;
+}
 .sectionHeader {
     box-sizing: border-box;
     width: 100%;
@@ -70,8 +74,8 @@ a:hover {
     background-repeat: no-repeat;
 }
 .titleLineWrapper {
-    width: auto; /* 720px */
-    height: auto; /* 106px */
+    width: auto;
+    height: auto;
     flex-shrink: 0;
     display: flex;
     flex-direction: column;
@@ -79,19 +83,22 @@ a:hover {
     align-items: center;
     overflow: visible;
 }
+img {
+    width: 100%;
+}
 .bodyText {
-    white-space: pre-wrap;
-    word-wrap: break-word;
-    word-break: break-word;
     overflow: hidden;
     /* font-weight: 400; */
     font-style: normal;
     font-family: "Poppins", serif;
     color: #ffffff;
+    overflow-wrap: break-word;
     font-size: 1em;
     line-height: 1.9;
     margin: 0;
+    padding: 40px;
 }
+
 .videoStyle {
     width: 100%;
     margin-left: auto;
@@ -115,7 +122,39 @@ a:hover {
     border-right-width: 0px;
     padding: 20px 100px 0px 100px;
 }
+.s-section {
+    width: 100%;
+    position: relative;
+    border-bottom: solid #a8a8a8 1px;
+}
+.s-articleImage {
+    width: 100%;
+    height: 100%;
+}
+.s-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1));
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    padding: 200px 40px 40px 40px;
+}
 
+.s-header {
+    color: white;
+    font-size: 3.5rem;
+    font-family: "Poppins-Bold";
+    margin: 0px;
+}
+.s-short-text {
+    color: white;
+    margin: 0px;
+    font-family: "Poppins";
+}
 .lineWrapper {
     box-sizing: border-box;
     width: 100%;
@@ -191,17 +230,26 @@ a:hover {
         background: linear-gradient(#171717d2, #171717d2), url("../images/scott-rodgerson-z0MDyylvY1k-unsplash.jpg");
     }
 }
+
 @media only screen and (max-width: 400px) {
-    .section {
-        padding: 20px 20px 0px 20px;
-        flex-direction: column;
+    .s-header {
+        font-family: "Poppins-Bold";
+        font-size: 2rem;
     }
+    .s-section {
+        height: 650px;
+    }
+
 }
 @media only screen and (max-width: 541px) {
-    .section {
-        padding: 20px 20px 0px 20px;
-        flex-direction: column;
+    .s-header {
+        font-family: "Poppins-Bold";
+        font-size: 2rem;
     }
+    .s-section {
+        height: 550px;
+    }
+
 }
 @media (min-width: 768px) and (max-width: 1024px) {
     .section {
