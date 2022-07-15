@@ -4,12 +4,16 @@ import { col, phoneImage, content } from './Blog.module.scss'
 import { Stack } from '@mui/material'
 import { graphql } from 'gatsby'
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
+import Navigation from '../components/Navigation/Navigation'
 function Blog({ data }) {
   const image = getImage(data.markdownRemark.frontmatter.thumb)
   return (
     <Layout>
+
       <div className="roundedMain">
+      <Navigation />
         <div className='s-section'>
+          
           <GatsbyImage className="s-articleImage" image={image} alt={data.markdownRemark.frontmatter.title} />
           <div className='s-overlay'>
             <p className='s-header'>{data.markdownRemark.frontmatter.title.replaceAll('-', ' ')}</p>
