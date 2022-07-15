@@ -232,6 +232,9 @@ img {
 }
 
 @media only screen and (max-width: 400px) {
+    .sectionHeader {
+        padding: 0px;
+    }
     .s-header {
         font-family: "Poppins-Bold";
         font-size: 2rem;
@@ -246,9 +249,11 @@ img {
     .bodyText {
         padding: 0px;
     }
-
 }
 @media only screen and (max-width: 541px) {
+    .sectionHeader {
+        padding: 0px;
+    }
     .s-header {
         font-family: "Poppins-Bold";
         font-size: 2rem;
@@ -256,9 +261,11 @@ img {
     .s-section {
         height: 550px;
     }
-
 }
 @media (min-width: 768px) and (max-width: 1024px) {
+    .sectionHeader {
+        padding: 0px;
+    }
     .section {
         padding: 20px 20px 0px 20px;
         flex-direction: column;

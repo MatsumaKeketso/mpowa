@@ -11,9 +11,9 @@ function Blog({ data }) {
     <Layout>
 
       <div className="roundedMain">
-      <Navigation />
+        <Navigation />
         <div className='s-section'>
-          
+
           <GatsbyImage className="s-articleImage" image={image} alt={data.markdownRemark.frontmatter.title} />
           <div className='s-overlay'>
             <p className='s-header'>{data.markdownRemark.frontmatter.title.replaceAll('-', ' ')}</p>
